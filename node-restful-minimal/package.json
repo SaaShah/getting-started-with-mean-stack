@@ -1,0 +1,11 @@
+{
+  "name": "node-restful-minimal",
+  "version": "0.0.0",
+  "dependencies": {
+    "body-parser": "~1.13.2",
+    "express": "~4.13.1",
+    "method-override": "^2.3.5",
+    "mongoose": "latest",
+    "node-restful": "latest"
+  }
+}
